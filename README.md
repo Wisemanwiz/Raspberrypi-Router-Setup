@@ -43,8 +43,7 @@ Using IP Tables To Set Up NAT: <br/>
 <img src="https://i.imgur.com/gTpdfnW.png?1" height="80%" width="80%" alt="Task 3"/><br/>
 <img src="https://i.imgur.com/8kQewfW.png?1" height="80%" width="80%" alt="Task 3"/>
 <br />
-Start And Check Dhcpcd Status:  <br/>
-<img src="" height="80%" width="80%" alt="Task 4"/>
+Start And Check Dhcpcd Status:
 <br /><img src="https://i.imgur.com/V14D9wY.png?1" height="80%" width="80%" alt="Task 4"/>
 <br />
 <br />
